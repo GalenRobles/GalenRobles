@@ -18,7 +18,7 @@ Estoy enfocado al 100% en el ecosistema móvil.
 ## 💼 Experiencia Profesional
 
 ### Desarrollador Flutter (Freelance)
-* **Fechas:** `[Tu Mes de Inicio, ej: Septiembre 2025]` – `Actualidad`
+* **Fechas:** `Octubre` – `Actualidad`
 * **Descripción:** Desarrollo de una aplicación móvil multiplataforma (iOS y Android) desde cero para un cliente. Mi rol es integral y abarca el ciclo de desarrollo completo: desde el **diseño UI/UX** inicial y prototipado, pasando por el **desarrollo frontend** de todas las vistas en Flutter, hasta la implementación de la **lógica de backend** con Firebase.
 
 ---
