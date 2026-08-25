@@ -28,7 +28,7 @@ I'm not an expert in all of these technologies. Some are things I currently use,
 
 ### Flutter Developer — Freelance
 
-**October 2025 – Present**
+**October 2025 – November 2025**
 
 I've participated in the development of a mobile application for a client using **Flutter and Firebase**.
 
