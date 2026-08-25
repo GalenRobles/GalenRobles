@@ -1,63 +1,78 @@
-# Hello! I'm Galen Robles 👋
+# Hello! I'm Galen Robles
 
-🎓 Systems Engineering Student at **TecNM ITL (Instituto Tecnológico de La Laguna)**.
-📱 **Focused on Cross-Platform Mobile Development (Flutter)**, with active freelance experience (started in October 2025).
-💡 Passionate about building intuitive, efficient software products that deliver real-world value.
+Systems Engineering student at **TecNM ITL (Instituto Tecnológico de La Laguna)**.
 
----
+I'm a curious student who enjoys learning about technology by building things. I don't have a single area of specialization yet, so I like exploring different areas of software development and working on projects that catch my interest.
 
-## 🚀 Currently Focused On
-
-I am actively building skills in the mobile and backend ecosystems.
-
-* **Mobile:** My primary focus is **Flutter**, building native applications for both iOS and Android.
-* **Backend & BaaS:** Gaining experience with **Firebase** (Authentication, Firestore, Storage) and reinforcing my knowledge of **AdonisJS**.
-* **Real-World Experience:** I am part of a team working as a **Freelance Flutter Developer** on a paid client project, applying these skills daily.
+Most of what you find here comes from things I've wanted to learn, university projects, freelance work, or simply ideas I wanted to turn into something functional.
 
 ---
 
-## 💼 Professional Experience
+## What I've Worked With
 
-### Flutter Developer (Freelance)
-* **Dates:** October 2025 – Present
-* **Description:** Developing a cross-platform mobile application (iOS & Android) from the ground up for a paying client. My role is integral, covering the full development lifecycle: from initial **UI/UX design** and prototyping, through **frontend development** of all views in Flutter, to implementing the **backend logic** with Firebase.
+Some technologies I've encountered through university, personal projects, and freelance work:
 
----
+* **Mobile:** Flutter, Android Studio
+* **Backend:** Node.js, AdonisJS, Firebase
+* **Web:** HTML, CSS, JavaScript
+* **Databases:** SQL, SQL Server, MySQL
+* **Programming:** Java
+* **Hardware:** Arduino
+* **Tools:** Git, GitHub, Figma
 
-## 🛠️ Technologies and Tools
-
-My current core tech stack and supporting knowledge foundation:
-
-* **Mobile (Core Focus):** Flutter, Dart
-* **Backend & BaaS:** Firebase, Node.js, AdonisJS
-* **Databases:** SQL (SQL Server, MySQL)
-* **Web Development:** Previous experience in creating **responsive web frontends** (using HTML, CSS, JavaScript)
-* **Other:** Git, GitHub, Figma, Java, Arduino
+I'm not an expert in all of these technologies. Some are things I currently use, while others come from previous projects or experiments.
 
 ---
 
-## 🌱 Foundational Projects
+## Experience
 
-These collaborative projects demonstrated my ability to specialize and manage complex technical integrations.
+### Flutter Developer — Freelance
 
-### 1. Backend for IoT System (AdonisJS, Android, Arduino)
-* **Role:** Backend API Developer
-* **Description:** My specialization was designing and developing a **RESTful API** using **AdonisJS (Node.js)**. The API served as the system's central "brain": it received data from **Arduino** sensors and served that data in real-time to a native **Android** app, connecting the hardware to the user interface.
-* **Technologies:** `AdonisJS`, `Node.js`, `REST API`, `Android`, `Arduino`
+**October 2025 – Present**
 
-### 2. Web Platform Development (Backend Integration Focus)
-* **Role:** Frontend Development (API Consumption Focused)
-* **Description:** My focus was on client-side architecture and managing the data flow. This experience allowed me to efficiently **consume a RESTful API** and work on a complete web application system, ensuring a responsive user interface.
-* **Technologies:** `REST API Consumption`, `Frontend Development`, `JavaScript`, `CSS`
+I've participated in the development of a mobile application for a client using **Flutter and Firebase**.
+
+My work has included developing application screens, connecting them with backend services, and collaborating with other members of the project.
+
+This has been my first opportunity to work on a software project outside of university and has helped me understand what developing software for a real client is like.
 
 ---
 
-## 🎯 Career Goal
+## Projects
 
-Actively seeking my first professional opportunity (internship, trainee, or junior role) as a **Flutter Mobile Developer** or in **Backend Development**. My goal is to apply my current experience and foundational knowledge within a team that values proactivity and continuous learning.
+Most of my projects are experiments, university assignments, or ideas that I wanted to turn into something functional.
+
+### IoT System — AdonisJS, Android & Arduino
+
+An academic project where I worked on the backend of an IoT system.
+
+I developed a REST API with **AdonisJS** that received information from Arduino sensors and provided that data to an Android application.
+
+**Technologies:** `AdonisJS` `Node.js` `REST API` `Android` `Arduino`
+
+### Web Application
+
+An academic web project where I worked mainly on the frontend and on consuming data from a REST API.
+
+**Technologies:** `HTML` `CSS` `JavaScript` `REST API`
 
 ---
 
-## 📫 Connect With Me
+## Currently Learning
+
+Rather than following a fixed specialization, I'm currently exploring different areas of software development through university, personal projects, and experimentation.
+
+I'm still figuring out which areas I want to pursue professionally.
+
+---
+
+## About Me
+
+I'm a Systems Engineering student who likes understanding how things work by actually building them.
+
+This GitHub is basically a collection of things I've worked on, experimented with, and learned along the way.
+
+
+## Connect With Me
 * **LinkedIn:** [linkedin.com/in/galenrobles](https://www.linkedin.com/in/galenrobles)
 * **Portfolio:** (Coming Soon...)
