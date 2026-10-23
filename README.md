@@ -13,7 +13,7 @@ Most of what you find here comes from things I've wanted to learn, university pr
 Some technologies I've encountered through university, personal projects, and freelance work:
 
 * **Mobile:** Flutter, Android Studio
-* **Backend:** Node.js, AdonisJS, Firebase
+* **Backend:** Node.js, AdonisJS, Firebase, C#
 * **Web:** HTML, CSS, JavaScript
 * **Databases:** SQL, SQL Server, MySQL
 * **Programming:** Java
